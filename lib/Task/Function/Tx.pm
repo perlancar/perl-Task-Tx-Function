@@ -9,6 +9,10 @@ package Task::Function::Tx;
 
 =pkgroup Included modules
 
+=pkg File::Copy::Undoable
+
+=pkg File::Move::Undoable
+
 =pkg File::Trash::Undoable
 
 =pkg Rinci
