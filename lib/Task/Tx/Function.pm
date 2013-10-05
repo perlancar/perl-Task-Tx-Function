@@ -1,4 +1,4 @@
-package Task::Function::Tx;
+package Task::Tx::Function;
 
 # VERSION
 
